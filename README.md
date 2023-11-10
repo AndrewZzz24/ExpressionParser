@@ -13,6 +13,8 @@ The next operations are supported:
 - "unary -"
 - "min"
 - "max"
+- leading zeroes
+- trailing zeroes
 
 You can also use this to evaluate function in some point. 
 The number of variables are not limited.
